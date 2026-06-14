@@ -63,11 +63,5 @@ The dataset contains synthetic customer transaction data with the following colu
 
 ---
 
-## 📂 Project Structure
-customer_segmentation_project/
-│
-├── segmentation.py
-├── segmentation_optimized.ipynb
-├── synthetic_customers.csv
-├── requirements.txt
-└── README.md
+
+
